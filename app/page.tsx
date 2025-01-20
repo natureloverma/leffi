@@ -22,7 +22,7 @@ export default function Home() {
 
     <main className="grid grid-cols-2 min-h-screen ">
       <div className="flex-col-1 items-left w-full ml-28 mt-28 bg-white">
-      <h1 className="mb-5 md:mb-0 text-7xl font-bold text-orange-800 pb-10">Sweet Paradise</h1>
+      <h1 className="mb-5 md:mb-0 text-7xl font-bold text-orange-800 pb-10">Sweet Paradise.</h1>
       <h3 className="mb-5 md:mb-0 text-6xl  pl-0">We will make your</h3>
       <h3 className="mb-5 md:mb-0 text-6xl pt-0  pl-0 pb-6">Life sweeter!</h3>
       <Button className="">Choose Dessert</Button>
